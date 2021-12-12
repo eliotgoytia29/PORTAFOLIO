@@ -1,0 +1,32 @@
+* ¿Cómo se llama mi página?
+
+Postres
+
+* ¿Con qué elementos cuenta mi página web?
+
+Mi página cuenta con un Navegador, un buscador, imagen, texto, color en el main, imagen, color en el texto, párrafo, con div y un link al CSS
+
+* ¿Cuál es la utilidad de cada elemento -título, subtítulos, menú, párrafos, listas, ligas, ligas a correo, imágenes, espaciadores, y otros?
+
+Facilitar la navegación en la página, hacerla más atractiva, el color del main es porque dicen que el color naranja provoca hambre, las imágenes muestran los contenidos y los links permiten una mejor navegación dentro de la página.
+
+* ¿En qué lugar de la página se encuentra cada elemento? 
+
+Los textos, las imágenes, los párrafos en el HTML
+El diseño de color, acomodo, tamaños, en CSS
+ 
+* ¿De qué trata mi página? 
+
+Mi página se trata de la repostería y venta en línea, ya que con la pandemia comenzó a tener mayor impacto las ventas en línea y penseque esto podría ayudar a generar ventas de cualquier establecimiento, la idea de los postres es una base para que de ahí puedan surgir más páginas de venta en línea de los comercios más pequeños.
+ 
+* ¿Por qué elegí esa temática?
+
+La temática surgió ya que anteriormente veía muchos establecimientos pequeños en la calle de postres y pensé que si esas personas pudieran tener un sitio donde vender sus productos sería una manera más fácil de contactar a la gente y de darse a conocer. 
+
+* ¿Mi respuesta responde si a alguna de las siguientes cuestiones? 
+Si 
+
+* ¿A cuál? Pue prácticamente mi propuesta es encontrar alguna solución a alguna desventaja que se presente, en este caso sería en obtener un mayor ingreso al realizar cualquier actividad ya que la pagina busca ser adaptable a cualquier necesidad. 
+
+
+
